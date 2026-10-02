@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hanieh Hatefi 👋
 
-<!--
-**haniehhatefi/haniehhatefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UX Researcher specializing in multilingual UX, localization, user trust, and user behavior.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multilingual UX
+- Localization
+- User Trust
+- User Experience Research
+- Digital Products
+- Gaming UX
+
+## Featured Research
+
+📚 Localized Multimodal Interfaces in English-Default Mobile Apps
+
+🎲 Why Players Believe the Dice Are Against Them
+
+## Connect
+
+- Portfolio Website: [http://haniehhatefi.it/]
+- LinkedIn: [https://www.linkedin.com/in/hanieh-hatefi/]
+- ResearchGate: [ttps://www.researchgate.net/profile/Hanieh-Hatefi]
+- ORCID: [https://orcid.org/0009-0004-5357-1381]
