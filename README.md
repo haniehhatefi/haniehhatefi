@@ -21,5 +21,5 @@ UX Researcher specializing in multilingual UX, localization, user trust, and use
 
 - Portfolio Website: [http://haniehhatefi.it/]
 - LinkedIn: [https://www.linkedin.com/in/hanieh-hatefi/]
-- ResearchGate: [ttps://www.researchgate.net/profile/Hanieh-Hatefi]
+- ResearchGate: [https://www.researchgate.net/profile/Hanieh-Hatefi]
 - ORCID: [https://orcid.org/0009-0004-5357-1381]
