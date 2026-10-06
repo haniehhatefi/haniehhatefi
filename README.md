@@ -13,9 +13,9 @@ UX Researcher specializing in multilingual UX, localization, user trust, and use
 
 ## Featured Research
 
-📚 Localized Multimodal Interfaces in English-Default Mobile Apps
+📚 Localized Multimodal Interfaces in English-Default Mobile Apps - Full preprint available via DOI: 10.31235/osf.io/gzsr7_v1
 
-🎲 Why Players Believe the Dice Are Against Them
+🎲 Why Players Believe the Dice Are Against Them - Full preprint available via DOI: 10.31235/OSF.IO/ZAX8G_V1
 
 ## Connect
 
