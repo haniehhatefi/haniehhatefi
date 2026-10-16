@@ -16,6 +16,7 @@ UX Researcher specializing in multilingual UX, localization, user trust, and use
 📚 Localized Multimodal Interfaces in English-Default Mobile Apps - Full preprint available via DOI: 10.31235/osf.io/gzsr7_v1
 
 🎲 Why Players Believe the Dice Are Against Them - Full preprint available via DOI: 10.31235/OSF.IO/ZAX8G_V1
+
 🟧 Perceived Manipulation, Fairness, and Trust in Competitive Mobile Gaming: A Cross-Cultural Analysis of Player Discourse DOI: 10.31235/osf.io/rjnfz_v1
 
 ## Connect
