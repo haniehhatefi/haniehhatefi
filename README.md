@@ -5,7 +5,7 @@ UX Researcher specializing in multilingual UX, localization, user trust, and use
 ## Research Interests
 
 - Multilingual UX
-- Localization
+- Localization & Technical Writing
 - User Trust
 - User Experience Research
 - Digital Products
