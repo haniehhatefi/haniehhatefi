@@ -6,7 +6,6 @@ UX Researcher specializing in multilingual UX, localization, user trust, and use
 
 - Multilingual UX
 - Localization & Technical Writing
-- User Trust
 - User Experience Research
 - Digital Products
 - Gaming UX
